@@ -15,7 +15,7 @@ I used the [p5.js library](https://github.com/processing/p5.js) and the [p5.scri
 You will find all the code I used to create this experiment in the 2 js files attached to this repository.
 
 ## BEHIND THE SCENES
-If you'd like to knwow more about my process, I wrote an article on [Medium](https://medium.com)
+If you'd like to knwow more about my process, I wrote an article on [Medium](http://bit.ly/nora-ntsc)
 
 ## Acknowledgement
 I'd like to thanks [Daniel Shiffman](https://github.com/shiffman) for being such and inspiration and an amazingly fun code teacher.
