@@ -5,7 +5,7 @@ Code for my video/code experiment "NTSC - Never Twice The Same Credits”, a dif
 I’m kind of addicted to TV Series and love Title Sequences. And as I was experimenting with code, I was wondering if it would be possible to create a Title Sequence that would change every time you watch a new episode. That’s how I came up with this idea.
 
 ## THE EXPERIMENT
-
+![NTSC](https://studionora.ca/webElts/gif/NTSC-1200px.gif)
 
 You can watch this experimment here: https://studionora.ca
 
