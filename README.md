@@ -7,10 +7,10 @@ I’m kind of addicted to TV Series and love Title Sequences. And as I was exper
 ## THE EXPERIMENT
 ![NTSC](https://studionora.ca/webElts/gif/NTSC-1200px.gif)
 
-You can watch this experimment here: https://studionora.ca
+**You can watch this experiment here: https://studionora.ca **
 
 ## THE CODE
-I use the [p5.js library](https://github.com/processing/p5.js) and the [p5.scribbles.js library](https://github.com/generative-light/p5.scribble.js) to make this work
+I used the [p5.js library](https://github.com/processing/p5.js) and the [p5.scribbles.js library](https://github.com/generative-light/p5.scribble.js) to make this work
 
 You will find all the code I used to create this experiment in the 2 js files attached to this repository.
 
