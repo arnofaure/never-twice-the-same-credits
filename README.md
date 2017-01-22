@@ -20,5 +20,5 @@ If you'd like to knwow more about my process, I wrote an article on [Medium](htt
 ## Acknowledgement
 I'd like to thanks [Daniel Shiffman](https://github.com/shiffman) for being such and inspiration and an amazingly fun code teacher.
 
-Thanks @8-uh for your help.
+Thanks [Ada Lovecraft](https://github.com/8-uh) for your help.
 
