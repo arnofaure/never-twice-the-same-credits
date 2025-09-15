@@ -7,7 +7,7 @@ I’m kind of addicted to TV Series and love Title Sequences. And as I was exper
 ## THE EXPERIMENT
 ![NTSC](https://studionora.ca/webElts/gif/NTSC-1200px.gif)
 
-**You can watch this experiment here: https://www.studionora.ca/projects/never-twice-the-same-credits.html **
+**You can watch this experiment here: [https://www.studionora.ca/projects/never-twice-the-same-credits.html](http://xp.arnofaure.com/NTSC/never-twice-the-same-credits.html) **
 
 ## THE CODE
 I used the [p5.js library](https://github.com/processing/p5.js) and the [p5.scribbles.js library](https://github.com/generative-light/p5.scribble.js) to make this work
